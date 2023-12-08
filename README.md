@@ -21,9 +21,10 @@ Durant ces lives nous allons faire du javascript, du HTML et du SASS.
 | ------ | ---------- | --------- | ----------------------------------- | ------------------------------------------- |
 | 01     | 24/11/2023 | 10h - 11h | On code notre calendrier de l'avant | https://app.studi.fr/v3/events/57808/replay |
 | 02     | 01/12/2023 | 10h - 11h | On code notre calendrier de l'avant | https://app.studi.fr/v3/events/57809/replay                       |
-| 03     | 08/12/2023 | 10h - 11h | On code notre calendrier de l'avant | Pas encore disponible                       |
+| 03     | 08/12/2023 | 10h - 11h | On code notre calendrier de l'avant | https://app.studi.fr/v3/events/57810/replay                       |
 | 04     | 15/12/2023 | 10h - 11h | On code notre calendrier de l'avant | Pas encore disponible                       |
 | 05     | 18/12/2023 | 10h - 11h | On code notre calendrier de l'avant | Pas encore disponible                       |
 
 ## Ressources
 - [Générateur de font-face](https://transfonter.org/)
+- [new Audio()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)
