@@ -1,4 +1,5 @@
 @use "../abstracts/_mixins" as mixins
+@use "../abstracts/_variables" as var
 
 .advent
     height: 100vh // vw = viewport width
@@ -25,7 +26,7 @@
         background-size: cover
         font-family: 'Nabla', serif 
         font-size: 3rem
-        color: #c44f40
+        color: var.$primary
         transition: opacity 0.5s ease-in
 
         &.hide

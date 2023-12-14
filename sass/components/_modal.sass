@@ -1,0 +1,30 @@
+@use "../abstracts/_mixins" as mixins
+@use "../abstracts/_variables" as var
+
+.modal
+    background-color: rgba(0,0,0,0.5)
+    width: 100%
+    height: 100%
+    position: fixed
+    top: 0
+    left: 0
+
+    &[open]
+        @include mixins.flex-center()
+
+    &__container
+        background-color: white
+        border-radius: 2rem
+        width: 50%
+        padding: 2rem 4rem
+        position: relative
+
+    &__button
+        position: absolute
+        top: 1rem
+        right: 1rem
+
+        svg
+            width: 2rem
+            height: 2rem
+            fill: var.$primary
