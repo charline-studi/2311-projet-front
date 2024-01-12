@@ -20,12 +20,13 @@ Durant ces lives nous allons faire du javascript, du HTML et du SASS.
 | Numéro | Date       | Heure     | Titre                               | Replay                                      |
 | ------ | ---------- | --------- | ----------------------------------- | ------------------------------------------- |
 | 01     | 24/11/2023 | 10h - 11h | On code notre calendrier de l'avant | https://app.studi.fr/v3/events/57808/replay |
-| 02     | 01/12/2023 | 10h - 11h | On code notre calendrier de l'avant | https://app.studi.fr/v3/events/57809/replay                       |
-| 03     | 08/12/2023 | 10h - 11h | On code notre calendrier de l'avant | https://app.studi.fr/v3/events/57810/replay                       |
-| 04     | 14/12/2023 | 10h - 11h | On code notre calendrier de l'avant | https://app.studi.fr/v3/events/57858/replay                       |
-| 05     | 20/12/2023 | 10h - 11h | On code notre calendrier de l'avant | Pas encore disponible                       |
+| 02     | 01/12/2023 | 10h - 11h | On code notre calendrier de l'avant | https://app.studi.fr/v3/events/57809/replay |
+| 03     | 08/12/2023 | 10h - 11h | On code notre calendrier de l'avant | https://app.studi.fr/v3/events/57810/replay |
+| 04     | 14/12/2023 | 10h - 11h | On code notre calendrier de l'avant | https://app.studi.fr/v3/events/57858/replay |
+| 05     | 20/12/2023 | 10h - 11h | On code notre calendrier de l'avant | https://app.studi.fr/v3/events/57860/replay |
 
 ## Ressources
+
 - [Générateur de font-face](https://transfonter.org/)
 - [new Audio()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio)
 - [Jeu sélecteurs CSS](https://flukeout.github.io/)
